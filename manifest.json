@@ -1,0 +1,12 @@
+{
+	"name": "Rohit Sengar",
+	"icons": [
+		{
+			"src": "\/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#bab65d",
+	"display": "standalone"
+}
